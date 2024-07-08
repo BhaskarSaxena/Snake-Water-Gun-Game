@@ -1,2 +1,2 @@
 # Snake-Water-Gun-Game
-Its A FUn Game For Kids
+Its A Fun Game For Kids
